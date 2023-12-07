@@ -1,0 +1,6 @@
+com\example\logger\Listner.class
+com\example\logger\Log.class
+com\example\tests\example.class
+com\example\propertiesconfig\PropertiesFile.class
+com\example\infrastructure\BaseTest.class
+com\example\infrastructure\Helper.class

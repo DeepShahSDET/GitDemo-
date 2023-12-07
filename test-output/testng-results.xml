@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-22T11:49:33 IST" name="Default suite" finished-at="2023-11-22T11:50:06 IST" duration-ms="32928">
+    <groups>
+    </groups>
+    <test started-at="2023-11-22T11:49:33 IST" name="Default test" finished-at="2023-11-22T11:50:06 IST" duration-ms="32928">
+      <class name="com.example.tests.ContactUsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.tests.ContactUsTest@49b2a47d]" started-at="2023-11-22T11:49:26 IST" name="setUp" finished-at="2023-11-22T11:49:33 IST" duration-ms="7168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.example.tests.ContactUsTest@49b2a47d]" started-at="2023-11-22T11:49:33 IST" name="startTest" finished-at="2023-11-22T11:49:33 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.example.tests.ContactUsTest.careerContactUS()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="careerContactUS()[pri:0, instance:com.example.tests.ContactUsTest@49b2a47d]" started-at="2023-11-22T11:49:33 IST" name="careerContactUS" finished-at="2023-11-22T11:49:48 IST" duration-ms="15016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- careerContactUS -->
+        <test-method is-config="true" signature="endTest(org.testng.ITestResult)[pri:0, instance:com.example.tests.ContactUsTest@49b2a47d]" started-at="2023-11-22T11:49:49 IST" name="endTest" finished-at="2023-11-22T11:49:58 IST" duration-ms="9369" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=careerContactUS status=SUCCESS method=ContactUsTest.careerContactUS()[pri:0, instance:com.example.tests.ContactUsTest@49b2a47d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.tests.ContactUsTest@49b2a47d]" started-at="2023-11-22T11:50:11 IST" name="tearDown" finished-at="2023-11-22T11:50:14 IST" duration-ms="2747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.tests.ContactUsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
